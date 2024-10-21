@@ -1,4 +1,4 @@
-let idade=number prompt("informe sua idade.");
+let idade=  prompt("informe sua idade.");
 let valor01= 18
 let valor02= 17
 let res = valor1 > valor2
